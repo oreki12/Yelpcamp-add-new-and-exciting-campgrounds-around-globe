@@ -1,2 +1,2 @@
-# Yelpcamp-add-new-ant-exciting-campgrounds-around-globe
-Add new ant exciting campgrounds around globe
+# Yelpcamp-add-new-and-exciting-campgrounds-around-globe
+Add new and exciting campgrounds around globe
